@@ -1,0 +1,21 @@
+.github
+
+# Gradle and Android build outputs
+.gradle/
+**/build/
+local.properties
+*.jks
+*.keystore
+*.iml
+.idea/
+
+# Kotlin/JVM outputs
+*.class
+*.jar
+
+# Local development and generated artifacts
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
